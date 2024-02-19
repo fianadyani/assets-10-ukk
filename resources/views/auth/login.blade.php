@@ -54,12 +54,11 @@
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox small">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck">
-                                                <label class="custom-control-label" for="customCheck">Remember
-                                                    Me</label>
+                                                <label class="custom-control-label" for="customCheck">Remember Me</label>
                                             </div>
                                         </div>
                                         <a href="/" class="btn btn-primary btn-user btn-block">
-                                            Login
+                                            Log in
                                         </a>
                                         <hr>
                                         <a href="index.html" class="btn btn-google btn-user btn-block">
