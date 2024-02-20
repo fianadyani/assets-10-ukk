@@ -3,7 +3,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
             <i class="bi bi-envelope d-flex align-items-center"><a
-                    href="mailto:contact@example.com">ReadBook@gmail.com</a></i>
+                    href="mailto:contact@example.com">PerpustakaanDigital@gmail.com</a></i>
             <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 857-1585-7430</span></i>
         </div>
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
@@ -23,7 +23,7 @@
                 <li><a href="#hero">Home</a></li>
                 <li><a href="#services">Novel</a></li>
                 <li><a href="#team">Komik</a></li>
-                <li><a href="#">Kartun</a></li>
+                <li><a href="#">Horor</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav><!-- .navbar -->

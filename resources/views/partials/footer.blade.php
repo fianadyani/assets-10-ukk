@@ -36,9 +36,9 @@
             <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                 <h4>Contact Us</h4>
                 <p>
-                    <strong>No Telepon:</strong> +62 857-1585-7430 <br>
-                    <strong>Email:</strong> Readbook@gmail.com<br>
-                    <strong>Alamat:</strong> Jl.Veteran No.1A, RT.005/RW.002, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15118<br>
+                    <strong>No Telepon:</strong>+62 857-1585-7430<br>
+                    <strong>Email:</strong>PerpustakaanDigital@gmail.com<br>
+                    <strong>Alamat:</strong>Jl.Veteran No.1A, RT.005/RW.002, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15118<br>
                 </p>
 
             </div>

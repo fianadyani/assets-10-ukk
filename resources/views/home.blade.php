@@ -8,7 +8,7 @@
                     <h2>Selamat Datang Di <span>Perpustakaan Digital</span></h2>
                     <p>Perpustakaan Dengan Banyak Pilihan Buku</p>
                     <div class="d-flex justify-content-center justify-content-lg-start">
-                        <a href="/" class="btn-get-started">Log in</a>
+                        <a href="/login" class="btn-get-started">Log in</a>
                     </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2">
@@ -69,7 +69,7 @@
                     <div class="service-item position-relative grid justify-content-center">
                         <h3>Novel</h3>
                         <br>
-                        <img src="{{ asset('foto/1.jpg') }}" alt="" style="width: 200px"> <br>
+                        <img src="{{ asset('foto/0.jpg') }}" alt="" style="width: 200px"> <br>
                         <a href="#" class="readmore stretched-link">Baca Selengkapnya <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
@@ -77,15 +77,15 @@
                     <div class="service-item position-relative grid justify-content-center">
                         <h3>Komik</h3>
                         <br>
-                        <img src="{{ asset('foto/2.jpg') }}" alt="" style="width: 200px"> <br>
+                        <img src="{{ asset('foto/5.jpg') }}" alt="" style="width: 200px"> <br>
                         <a href="#" class="readmore stretched-link">Baca selengkapnya <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item position-relative grid justify-content-center">
-                        <h3>Kartun</h3>
+                        <h3>Horor</h3>
                         <br>
-                        <img src="{{ asset('foto/3.jpg') }}" alt="" style="width: 200px"> <br>
+                        <img src="{{ asset('foto/6.jpg') }}" alt="" style="width: 200px"> <br>
                         <a href="#" class="readmore stretched-link">Baca Selengkapnya <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                                 </div>
                                 <p>
                                     <i class="bi bi-quote quote-icon-left"></i>
-                                    Keren banget!!!!!
+                                    Keren banget!!!!!   
                                     <i class="bi bi-quote quote-icon-right"></i>
                                 </p>
                             </div>
@@ -184,7 +184,7 @@
                                     <img src="assets/img/testimonials/testimonials-1.jpg"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
-                                        <h3>nabilayunandasafitri</h3>
+                                        <h3>NabilaYunandasafitri</h3>
                                         <h4></h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -195,7 +195,7 @@
                                 </div>
                                 <p>
                                     <i class="bi bi-quote quote-icon-left"></i>
-                                    Oke banget
+                                    Oke banget.
                                     <i class="bi bi-quote quote-icon-right"></i>
                                 </p>
                             </div>
@@ -210,88 +210,6 @@
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
         <div class="container" data-aos="fade-up">
-
-            <div class="row gy-4">
-
-                <div class="col-lg-4">
-                    <div class="content px-xl-5">
-                        <h3>Pertanyaan Anda Apa?</h3>
-                    </div>
-                </div>
-
-                <div class="col-lg-8">
-
-                    <div class="accordion accordion-flush" id="faqlist" data-aos="fade-up" data-aos-delay="100">
-
-                        <div class="accordion-item">
-                            <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-1">
-                                    <span class="num">1.</span>
-                                    Kartu Anggota Digital
-                                </button>
-                            </h3>
-                            <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                                <div class="accordion-body">
-                                    Kartu anggota digital yang dapat berfungsi layaknya kartu anggota UPT perpustakaan
-                                    proklamator bung hatta
-                                </div>
-                            </div>
-                        </div><!-- # Faq item-->
-
-                        <div class="accordion-item">
-                            <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-2">
-                                    <span class="num">2.</span>
-                                    Aktivitasi Keanggotan
-                                </button>
-                            </h3>
-                            <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                                <div class="accordion-body">
-                                    Anggota Keanggotaan bisa dilakukan secara online tanpa harus datang ke UPT perpustakaan
-                                    proklamator bung hatta
-                                </div>
-                            </div>
-                        </div><!-- # Faq item-->
-
-                        <div class="accordion-item">
-                            <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-3">
-                                    <span class="num">3.</span>
-                                    Notifikasi Email
-                                </button>
-                            </h3>
-                            <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                                <div class="accordion-body">
-                                    Mendapatkan notifikasi email secara realtime pada saat setelah pendaftaraan anggota
-                                    online
-                                </div>
-                            </div>
-                        </div><!-- # Faq item-->
-
-                        <div class="accordion-item">
-                            <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-4">
-                                    <span class="num">4.</span>
-                                    Pendaftaraan Anggota Online
-                                </button>
-                            </h3>
-                            <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                                <div class="accordion-body">
-                                    Pendaftaraan anggota bisa dilakukan secara online tanpa harus datang ke UPT perpustakaan
-                                    proklamator
-                                </div>
-                            </div>
-                        </div><!-- # Faq item-->
-
-                    </div>
-
-                </div>
-            </div>
-
         </div>
     </section><!-- End Frequently Asked Questions Section -->
 
