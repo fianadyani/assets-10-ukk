@@ -23,14 +23,14 @@
                 <div class="row gy-4 mt-5">
                     <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-easel"></i></div>
+                            <div class="icon"><i class="bi bi-easel"></i></div> 
                             <h4 class="title"><a href="" class="stretched-link">Cari</a></h4>
                         </div>
-                    </div><!--End Icon Box -->
+                    </div><!--End Icon Box  -->
 
                     <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-gem"></i></div>
+                            <div class="icon"><i class="bi bi-download"></i></div>
                             <h4 class="title"><a href="" class="stretched-link">Simpan</a></h4>
                         </div>
                     </div><!--End Icon Box -->
@@ -44,7 +44,7 @@
 
                     <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-command"></i></div>
+                            <div class="icon"><i class="bi bi-book"></i></div>
                             <h4 class="title"><a href="" class="stretched-link">Beragam Buku</a></h4>
                         </div>
                     </div><!--End Icon Box -->
@@ -112,7 +112,7 @@
                                     <img src="assets/img/testimonials/testimonials-1.jpg"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
-                                        <h3>FianaALmhdyani</h3>
+                                        <h3>Fiana AL Mahdyani</h3>
                                         <h4>Founder</h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -160,7 +160,7 @@
                                     <img src="assets/img/testimonials/testimonials-1.jpg"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
-                                        <h3>DeniWijayad</h3>
+                                        <h3>Deni Wijayad</h3>
                                         <h4></h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -184,7 +184,7 @@
                                     <img src="assets/img/testimonials/testimonials-1.jpg"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
-                                        <h3>NabilaYunandasafitri</h3>
+                                        <h3>Nabila Yunandasafitri</h3>
                                         <h4></h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
